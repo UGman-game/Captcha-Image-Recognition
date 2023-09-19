@@ -1,1 +1,1 @@
-# Captcha-Image-Recognition
+# Captcha Image Recognition
